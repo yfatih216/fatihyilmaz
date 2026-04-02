@@ -1,0 +1,34 @@
+<svg width="150" height="150" viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="340" cy="185" r="128"/>
+    </clipPath>
+  </defs>
+
+  <rect x="210" y="55" width="87" height="130" fill="white" clip-path="url(#circleClip)"/>
+  <rect x="210" y="185" width="87" height="130" fill="#002395" clip-path="url(#circleClip)"/>
+  <rect x="297" y="55" width="87" height="260" fill="white" clip-path="url(#circleClip)"/>
+  <rect x="384" y="55" width="87" height="130" fill="#ED2939" clip-path="url(#circleClip)"/>
+  <rect x="384" y="185" width="87" height="130" fill="white" clip-path="url(#circleClip)"/>
+
+  <ellipse cx="340" cy="210" rx="75" ry="18" fill="#ED2939"/>
+  <path d="M265 210 Q270 165 340 155 Q410 165 415 210 Z" fill="#ED2939"/>
+  <ellipse cx="340" cy="210" rx="75" ry="10" fill="none" stroke="#002395" stroke-width="3"/>
+  <path d="M290 180 Q340 148 390 180" fill="none" stroke="#002395" stroke-width="2"/>
+
+  <rect x="333" y="130" width="14" height="50" rx="3" fill="#002395"/>
+  <rect x="326" y="100" width="28" height="35" rx="6" fill="#002395"/>
+  <path d="M326 105 Q318 80 332 60 Q335 75 340 65 Q345 50 348 65 Q352 75 355 60 Q365 78 354 105 Z" fill="#ED2939"/>
+  <path d="M330 105 Q324 85 336 68 Q339 78 340 70 Q341 78 344 68 Q352 83 350 105 Z" fill="#f5a623"/>
+  <path d="M334 105 Q330 90 338 76 Q340 82 342 76 Q346 88 346 105 Z" fill="#ffe066"/>
+
+  <circle cx="340" cy="185" r="130" fill="none" stroke="#002395" stroke-width="5"/>
+  <circle cx="340" cy="185" r="122" fill="none" stroke="#ED2939" stroke-width="2.5"/>
+
+  <path d="M215 268 Q250 298 295 280 L295 298 Q250 320 215 288 Z" fill="#ED2939"/>
+  <path d="M295 280 Q318 272 340 274 Q362 272 385 280 L385 298 Q362 292 340 294 Q318 292 295 298 Z" fill="white" stroke="#ddd" stroke-width="0.5"/>
+  <path d="M385 280 Q430 298 465 268 L465 288 Q430 320 385 298 Z" fill="#002395"/>
+
+  <text x="340" y="345" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#1a1a2e" letter-spacing="2">FATİH YILMAZ</text>
+  <text x="340" y="368" text-anchor="middle" font-family="Arial" font-size="13" fill="#555" letter-spacing="3">DİJİTAL PAZARLAMA</text>
+</svg>
